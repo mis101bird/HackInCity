@@ -9,7 +9,7 @@
 用到Volley、SQLite和SharedPreferences，撰寫架構良好值得模仿
 
 ##Tab切換Fragment部分
-有些感所以寫的亂，用的是Android 5.0的ToolBar
+有些趕所以寫的亂，用的是Android 5.0的ToolBar
 
 #上傳照片
 有些舊，問題小多
