@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:baselineAligned="false"
+    android:background="@android:drawable/picture_frame"
+    android:focusable="false"
+    android:focusableInTouchMode="false"
+    android:id="@+id/barline">
+
+    <TextView
+        android:layout_width="130dp"
+        android:layout_height="50dp"
+
+        android:text="Large Text"
+        android:linksClickable="true"
+        android:id="@+id/textView1"
+        android:textSize="25dp"
+        android:textColor="#FA5858"
+        />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton"
+        android:src="@drawable/icredit" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/textView2"
+        android:layout_weight="0.86"
+        android:textSize="25dp" />
+
+
+</LinearLayout>

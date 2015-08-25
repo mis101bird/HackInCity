@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-eff1df7b9f944ea4eaa3d2d5669fb55b6f875ec7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.0\a7537446a030da8eb0da4c71424d16c2589f6c4a\glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\glide-3.6.0-17f29704faac188b3e6be5d14ea5f4fc6719ad58.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-30180956733e67242a1070c805b87fed631a53cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-b60578ca95d1fdf2fc35f7dd50b82317214a9d89.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-fbb1f861f9ffd8e516800316cdf858a89a18861e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-5b039583d72a8e7a391a9a3138cf691197c44d1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\libs\httpmime-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="66a39a5e37d5da40fdad6176fc24ef4316e74702">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\httpmime-4.3.6-5f143d6167f847f814bbaebae4c467081783c38f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-9a7e4c0535f48c7597a541c0e38c28ec71f170df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-be93af9ded598eb33d62fc8e41f333fa438b68e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-c84b6f2be60bb5bc6eda5822510801e2d32cbe97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-f1f8cdd1355c11f166958d8cb7beeac2a0a0ac26.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\libs\httpcore-4.3.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\httpcore-4.3.3-39e9c5f9a5ad2d22632ecb600e64a7e9439190a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-d5c986b3e7491a17aa2a1eba5031a020aba340eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-da4dcfafd2bb6bb78a548d729ae840c515e0afa9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-a577931d4a5bf1d3bc6334a816c6d91aec005ccf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-40674a907dfbddae3b03d0b18997f78feef8f825.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-e682d1591969e560ceeac030b0ac93fe7cb9fd72.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-2d77600db121f35de40d5d1ae8635e4fbc7c2ec4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-117a918d4d53d125c01fc8acd4e91ec109c66ee2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-661d6a448723c497fbd4b8e1a4646c35e654c9b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-ae055d2b6dbd7fc5930504ae32bea27cf2f0747e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-0b18f8940bb6e4d4aa42132287ab44275b9e0755.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-39b2c3cd2cde7478c5600ab768d57ec38c209c52.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-165ef36b420f2899ae20573abe29d38738ab3f73.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-8382fac8e4cfb9f7feb7569b6344b114be779210.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.18\38da306aafee11459cd935a01d2c92a98dc670a4\library-1.0.18.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\library-1.0.18-3ab777812d392140b89d3a588e81589648ebfb29.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-0da4e8633f49956c851fe2182d24e10fe997d8f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\libs\httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6-273bc8497f9f0f817e2215e8aa0685716341ad7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-d0b86339cdd3ef9250c2c70b10b34837e6e81268.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-78c71e4e2de04d68504203942727bf5da6bc067c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-781573aae4b550b1bb5cbde9d5d1e5ee5be2c36a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-a46b2ea3ed2bc4d7bd729b67a60331028f792d51.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Saf\Desktop\HackInCity-master\app\build\intermediates\pre-dexed\debug\classes-e5df0e0a867e9bd00c15dde8bb5e12c0f1c2269e.jar" />
+    </item>
+
+</items>

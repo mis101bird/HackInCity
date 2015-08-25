@@ -1,0 +1,26 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="android.snapevent.FirstPage"
+    android:background="@drawable/otherback">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal|top">
+
+        <SearchView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:id="@+id/searchView"
+            android:layout_gravity="center_horizontal" />
+        <ListView
+            android:layout_width="313dp"
+            android:layout_height="437dp"
+            android:id="@+id/listView1"
+            android:layout_gravity="center" />
+    </LinearLayout>
+
+
+
+</FrameLayout>
